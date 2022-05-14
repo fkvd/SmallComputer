@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/abort.png</file>
+        <file>icons/run.png</file>
+        <file>icons/smallComputer.ico</file>
+    </qresource>
+</RCC>
